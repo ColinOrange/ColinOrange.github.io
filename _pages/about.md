@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a placeholder text.
+My name is Colin Orange. I am currently enrolled in UNCG as a senior in Information Science working off of the associates in science I received during my time at GTCC. I enjoy creative writing and working on computers in my free time along with bowling semi-professionally. 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
