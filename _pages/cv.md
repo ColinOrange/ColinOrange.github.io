@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*Associates in Science from GTCC
+*Nearing completion on a Bachelors in Information Science at UNCG
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Coaching a  youth bowling team for 3 years that reached nationals
+* Ownership of a small lawn care business in my local area
+* Several years of IT experience in my local area
 
 * Fall 2015: Research Assistant
   * GitHub University
